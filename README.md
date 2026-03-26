@@ -1,6 +1,6 @@
 # 🦆 Duckly
 
-Duckly is a fun Flutter app that shows a random duck image every time you refresh. You can also play a cute quack sound while generating new ducks. Perfect for a lighthearted distraction or practicing Flutter development!
+Duckly is a playful Flutter app that delivers a new random duck image every time you refresh. Tap or swipe to generate adorable ducks while enjoying a cheerful quack sound!
 
 ![Duckly Screenshot](https://github.com/KrishBharadwaj5678/Duckly/raw/main/DucklyDemo.jpeg)
 
