@@ -1,4 +1,4 @@
-package com.example.random_duck
+package com.byteaura.duckly
 
 import io.flutter.embedding.android.FlutterActivity
 
