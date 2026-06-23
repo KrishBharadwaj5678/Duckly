@@ -1,8 +1,10 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🦆 Duckly
 
 Duckly is a playful Flutter app that delivers a new random duck image every time you refresh. Tap or swipe to generate adorable ducks while enjoying a cheerful quack sound!
 
-![Duckly Screenshot](https://github.com/KrishBharadwaj5678/Duckly/raw/main/DucklyDemo.jpeg)
+![DucklyDemo](https://github.com/KrishBharadwaj5678/Duckly/raw/main/DucklyDemo.jpeg)
 
 ## ✨ Features
 
@@ -55,15 +57,3 @@ flutter pub get
 ```bash
 flutter run
 ```
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
